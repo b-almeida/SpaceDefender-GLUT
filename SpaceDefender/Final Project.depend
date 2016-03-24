@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1421631427 source:c:\users\bruno\google drive\grade 11\computer science\final project\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<utility>
+	<vector>
+	<stdexcept>
+	"Player.h"
+	"Enemy.h"
+	"Charge.h"
+	"Game.h"
+
+1420934410 source:c:\users\bruno\google drive\grade 11\computer science\final project\game.h
+	"Player.h"
+
+1416411437 c:\users\bruno\google drive\grade 11\computer science\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1416411437 c:\users\bruno\google drive\grade 11\computer science\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1421629943 c:\users\bruno\google drive\grade 11\computer science\final project\game.h
+	<utility>
+	<vector>
+	"Player.h"
+	"Enemy.h"
+	"Charge.h"
+
+1421629750 source:c:\users\bruno\google drive\grade 11\computer science\final project\player.cpp
+	<utility>
+	<cmath>
+	<stdexcept>
+	"Enemy.h"
+	"Player.h"
+
+1421628873 c:\users\bruno\google drive\grade 11\computer science\final project\player.h
+	<utility>
+	"Enemy.h"
+
+1421631364 source:c:\users\bruno\google drive\grade 11\computer science\final project\main.cpp
+	<iostream>
+	<sstream>
+	<utility>
+	<vector>
+	<stdexcept>
+	<GL/glut.h>
+	"Game.h"
+	"Player.h"
+	"Enemy.h"
+	"Charge.h"
+
+1420933093 c:\users\bruno\google drive\grade 11\computer science\final project\operations.h
+
+1421629561 source:c:\users\bruno\google drive\grade 11\computer science\final project\enemy.cpp
+	<utility>
+	<cmath>
+	<stdexcept>
+	"Charge.h"
+	"Enemy.h"
+
+1421629629 c:\users\bruno\google drive\grade 11\computer science\final project\enemy.h
+	<utility>
+	"Charge.h"
+
+1421629281 source:c:\users\bruno\google drive\grade 11\computer science\final project\charge.cpp
+	<utility>
+	<stdexcept>
+	"Charge.h"
+
+1421628765 c:\users\bruno\google drive\grade 11\computer science\final project\charge.h
+	<utility>
+
